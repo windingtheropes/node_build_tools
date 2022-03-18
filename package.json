@@ -1,0 +1,13 @@
+{
+  "name": "node_build_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "bin": "build.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pkg": "^5.5.2"
+  }
+}
